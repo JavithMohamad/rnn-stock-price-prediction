@@ -27,7 +27,7 @@ Train the model on the prepared training data.
 Preprocess test data, predict using the trained model, and visualize the results.
 
 ## Program
-#### Name: Dharini 
+#### Name: Javith M
 #### Register Number: 212222110014
 ```python
 import numpy as np
